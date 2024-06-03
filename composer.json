@@ -1,0 +1,16 @@
+{
+  "name": "tuleiphp/fastadmin",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin tuleiphp/fastadmin",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Tulei\\fastdmin\\": "src",
+      "Tulei\\Fastdmin\\": "src",
+      "Tuleiphp\\Fastdmin\\": "src",
+      "Tuleiphp\\fastdmin\\": "src"
+    }
+  }
+}
